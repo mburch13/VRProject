@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 7ea587bc703614aa48a5c474c385da4b
+timeCreated: 1511904806
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - healthText: {instanceID: 0}
+  - Barrel: {instanceID: 0}
+  - ScoreText: {instanceID: 0}
+  - HealthText: {instanceID: 0}
+  - GameOverLose: {instanceID: 0}
+  - GameOverWin: {instanceID: 0}
+  - GameController: {instanceID: 0}
+  - EnemyCharacter: {instanceID: 0}
+  - healthHeart1: {instanceID: 0}
+  - healthHeart2: {instanceID: 0}
+  - healthHeart3: {instanceID: 0}
+  - healthHeart4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

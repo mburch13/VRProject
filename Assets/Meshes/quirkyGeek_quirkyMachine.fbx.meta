@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 05685e205f3979c40b0b45fb145761fd
+timeCreated: 1510538032
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: pCube56
+    100002: pCube57
+    100004: pCylinder10
+    100006: pCylinder11
+    100008: pCylinder6
+    100010: pCylinder7
+    100012: pCylinder8
+    100014: pCylinder9
+    100016: quirkyEnv
+    100018: //RootNode
+    400000: pCube56
+    400002: pCube57
+    400004: pCylinder10
+    400006: pCylinder11
+    400008: pCylinder6
+    400010: pCylinder7
+    400012: pCylinder8
+    400014: pCylinder9
+    400016: quirkyEnv
+    400018: //RootNode
+    2300000: pCube56
+    2300002: pCube57
+    2300004: pCylinder10
+    2300006: pCylinder11
+    2300008: pCylinder6
+    2300010: pCylinder7
+    2300012: pCylinder8
+    2300014: pCylinder9
+    3300000: pCube56
+    3300002: pCube57
+    3300004: pCylinder10
+    3300006: pCylinder11
+    3300008: pCylinder6
+    3300010: pCylinder7
+    3300012: pCylinder8
+    3300014: pCylinder9
+    4300000: pCube56
+    4300002: pCylinder6
+    4300004: pCylinder7
+    4300006: pCylinder8
+    4300008: pCylinder9
+    4300010: pCylinder10
+    4300012: pCylinder11
+    4300014: pCube57
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_Main
+    second: {fileID: 2100000, guid: c1e82440b7b34694e905e2b21193883f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_L
+    second: {fileID: 2100000, guid: ecee4ca4b6247564bbd83b60e1130856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_R
+    second: {fileID: 2100000, guid: 2a4aa0f204ff02346a64c5dea3f914a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert19
+    second: {fileID: 2100000, guid: 3d3b85138dab4034c8696f3313948b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: main_face
+    second: {fileID: 2100000, guid: 187e36ed8f714ed44a2ecdae936be976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mouth
+    second: {fileID: 2100000, guid: 7c7c0a8ac94baa64b893d2ad5e00e32b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: a4a1eb46f21ed27439cf796c9c577447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plus
+    second: {fileID: 2100000, guid: d96443b9222c4c546885ed4cff39eac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: 7f4d49f0676691245a1cf09e31fdc95e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: topBox
+    second: {fileID: 2100000, guid: 4d30e25845bc62748bff578a2d2b2952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yarnTendril_01
+    second: {fileID: 2100000, guid: fb51b569d98cd1e4a9dc04129409ebca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yarnTendril_02
+    second: {fileID: 2100000, guid: fb35fa0f32332dd4b91b79ad7ea71a37, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

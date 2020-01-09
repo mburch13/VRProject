@@ -1,0 +1,303 @@
+fileFormatVersion: 2
+guid: 71669f084d75afd45bc58510d06400b5
+timeCreated: 1512104182
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_R
+    100004: CHAR_eye_R
+    100006: CHAR_eye_R1
+    100008: CHAR_Geo
+    100010: CHAR_Hair
+    100012: CHAR_mouth
+    100014: CHAR_spoolBase
+    100016: CHAR_spoolSide
+    100018: CHAR_thimble
+    100020: CTRL_Elbow_L
+    100022: CTRL_Elbow_R
+    100024: CTRL_Foot_L
+    100026: CTRL_Foot_R
+    100028: CTRL_Hair_L_01
+    100030: CTRL_Hair_L_02
+    100032: CTRL_Hair_L_03
+    100034: CTRL_Hair_R_01
+    100036: CTRL_Hair_R_02
+    100038: CTRL_Hair_R_03
+    100040: CTRL_Hand_L
+    100042: CTRL_Hand_R
+    100044: CTRL_Heel_L
+    100046: CTRL_Heel_R
+    100048: CTRL_Hip
+    100050: CTRL_Knee_L
+    100052: CTRL_Knee_R
+    100054: CTRL_Master
+    100056: CTRL_Toe_L
+    100058: CTRL_Toe_R
+    100060: //RootNode
+    100062: Finger_L
+    100064: Finger_R
+    100066: FingerTip_L
+    100068: FingerTip_R
+    100070: Foot_L
+    100072: Foot_R
+    100074: Hair_L_01
+    100076: Hair_L_02
+    100078: Hair_L_03
+    100080: Hair_L_04
+    100082: Hair_R_01
+    100084: Hair_R_02
+    100086: Hair_R_03
+    100088: Hair_R_04
+    100090: Hand_L
+    100092: Hand_R
+    100094: Head
+    100096: Head 1
+    100098: IK_Arm_L
+    100100: IK_Arm_R
+    100102: IK_Handles
+    100104: IK_Heel_L
+    100106: IK_Heel_R
+    100108: IK_Leg_L
+    100110: IK_Leg_R
+    100112: IK_Toe_L
+    100114: IK_Toe_R
+    100116: Leg_L
+    100118: Leg_R
+    100120: Neck_01
+    100122: Neck_01 1
+    100124: Neck_02
+    100126: Neck_02 1
+    100128: Neck_03
+    100130: Neck_03 1
+    100132: quirkyCharaBodyBase_Mesh
+    100134: Root
+    100136: Shin_L
+    100138: Shin_R
+    100140: Shoulder_L
+    100142: Shoulder_R
+    100144: Spine_01
+    100146: Toe_L
+    100148: Toe_R
+    100150: ToeTip_L
+    100152: ToeTip_R
+    400000: Arm_L
+    400002: Arm_R
+    400004: CHAR_eye_R
+    400006: CHAR_eye_R1
+    400008: CHAR_Geo
+    400010: CHAR_Hair
+    400012: CHAR_mouth
+    400014: CHAR_spoolBase
+    400016: CHAR_spoolSide
+    400018: CHAR_thimble
+    400020: CTRL_Elbow_L
+    400022: CTRL_Elbow_R
+    400024: CTRL_Foot_L
+    400026: CTRL_Foot_R
+    400028: CTRL_Hair_L_01
+    400030: CTRL_Hair_L_02
+    400032: CTRL_Hair_L_03
+    400034: CTRL_Hair_R_01
+    400036: CTRL_Hair_R_02
+    400038: CTRL_Hair_R_03
+    400040: CTRL_Hand_L
+    400042: CTRL_Hand_R
+    400044: CTRL_Heel_L
+    400046: CTRL_Heel_R
+    400048: CTRL_Hip
+    400050: CTRL_Knee_L
+    400052: CTRL_Knee_R
+    400054: CTRL_Master
+    400056: CTRL_Toe_L
+    400058: CTRL_Toe_R
+    400060: //RootNode
+    400062: Finger_L
+    400064: Finger_R
+    400066: FingerTip_L
+    400068: FingerTip_R
+    400070: Foot_L
+    400072: Foot_R
+    400074: Hair_L_01
+    400076: Hair_L_02
+    400078: Hair_L_03
+    400080: Hair_L_04
+    400082: Hair_R_01
+    400084: Hair_R_02
+    400086: Hair_R_03
+    400088: Hair_R_04
+    400090: Hand_L
+    400092: Hand_R
+    400094: Head
+    400096: Head 1
+    400098: IK_Arm_L
+    400100: IK_Arm_R
+    400102: IK_Handles
+    400104: IK_Heel_L
+    400106: IK_Heel_R
+    400108: IK_Leg_L
+    400110: IK_Leg_R
+    400112: IK_Toe_L
+    400114: IK_Toe_R
+    400116: Leg_L
+    400118: Leg_R
+    400120: Neck_01
+    400122: Neck_01 1
+    400124: Neck_02
+    400126: Neck_02 1
+    400128: Neck_03
+    400130: Neck_03 1
+    400132: quirkyCharaBodyBase_Mesh
+    400134: Root
+    400136: Shin_L
+    400138: Shin_R
+    400140: Shoulder_L
+    400142: Shoulder_R
+    400144: Spine_01
+    400146: Toe_L
+    400148: Toe_R
+    400150: ToeTip_L
+    400152: ToeTip_R
+    4300000: CHAR_spoolBase
+    4300002: CHAR_spoolSide
+    4300004: quirkyCharaBodyBase_Mesh
+    4300006: CHAR_thimble
+    4300008: CHAR_eye_R
+    4300010: CHAR_mouth
+    4300012: CHAR_Hair
+    4300014: CHAR_eye_R1
+    7400000: Dancing
+    7400002: Knocked Out
+    9500000: //RootNode
+    13700000: CHAR_eye_R
+    13700002: CHAR_eye_R1
+    13700004: CHAR_Hair
+    13700006: CHAR_mouth
+    13700008: CHAR_spoolBase
+    13700010: CHAR_spoolSide
+    13700012: CHAR_thimble
+    13700014: quirkyCharaBodyBase_Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainBody
+    second: {fileID: 2100000, guid: 6a23abf0ab0c8224d9037f972bd50ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharBluePlastic
+    second: {fileID: 2100000, guid: 3966c1b029d3dee42b7b3953e4b78d95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharGreenPlastic
+    second: {fileID: 2100000, guid: da160e3bc66e8414c8232535b67a70a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharHair
+    second: {fileID: 2100000, guid: a4a5cdde5794cd34c9b981d2d204e5a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharRedThread
+    second: {fileID: 2100000, guid: 2e76b53ed8e15ed46b34e68420ee2317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharSpoolBase
+    second: {fileID: 2100000, guid: c4639aae27c9fa849a28ccb0595b582b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharSpoolSide
+    second: {fileID: 2100000, guid: 651033ac09791f54eac7ca678463ca74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharThimble
+    second: {fileID: 2100000, guid: d9c97103fc87c344d88deb73c62bfb95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PxrQuirkyCharYellowPlastic
+    second: {fileID: 2100000, guid: 500213d0c9303eb4b92dfba726a6a9c5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
